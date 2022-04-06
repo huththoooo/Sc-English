@@ -61,7 +61,7 @@ const setting = JSON.parse(fs.readFileSync('./database/setting.json'))
 
 //━━━━[ Setting ]━━━━//
 
-owner = setting.OwnerNumber
+owner = setting.94784581881
 owner2 = `${owner}@s.whatsapp.net`
 botname = setting.BotName
 ownername = setting.OwnerName
